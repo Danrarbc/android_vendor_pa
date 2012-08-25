@@ -31,3 +31,12 @@ endif
 ifeq (pa_hercules,$(TARGET_PRODUCT))
     PRODUCT_MAKEFILES += $(LOCAL_DIR)/pa_hercules.mk
 endif
+ifeq (pa_p3100,$(TARGET_PRODUCT))
+    PRODUCT_MAKEFILES += $(LOCAL_DIR)/pa_p3100.mk
+endif
+ifeq (pa_p3110,$(TARGET_PRODUCT))
+    PRODUCT_MAKEFILES += $(LOCAL_DIR)/pa_p3110.mk
+endif
+ifeq (pa_p3113,$(TARGET_PRODUCT))
+    PRODUCT_MAKEFILES += $(LOCAL_DIR)/pa_p3113.mk
+endif

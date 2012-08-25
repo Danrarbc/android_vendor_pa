@@ -9,3 +9,6 @@ add_lunch_combo pa_galaxysmtd-userdebug
 add_lunch_combo pa_vibrantmtd-userdebug
 add_lunch_combo pa_endeavoru-userdebug
 add_lunch_combo pa_hercules-userdebug
+add_lunch_combo pa_p3113-userdebug
+add_lunch_combo pa_p3110-userdebug
+add_lunch_combo pa_p3100-userdebug
